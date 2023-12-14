@@ -1,0 +1,75 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+format: jb-book
+root: intro
+parts:
+- caption: Semana 1
+  numbered: true
+  chapters:
+  - file: chapter1
+  - file: Distribuciones mas utilizadas
+
+- caption: Semana 2
+  numbered: true
+  chapters:
+  - file: chapter2
+  - file: chapter3
+
+- caption: Semana 3
+  numbered: true
+  chapters:
+  - file: chapter4
+
+- caption: Semana 5
+  numbered: true
+  chapters:
+  - file: chapter5
+
+- caption: Semana 6
+  numbered: true
+  chapters:
+  - file: chapter6
+  - file: chapter7
+
+- caption: Semana 7
+  numbered: true
+  chapters:
+  - file: chapter8
+
+- caption: Semana 8
+  numbered: true
+  chapters:
+  - file: chapter9
+
+- caption: Semana 10
+  numbered: true
+  chapters:
+  - file: chapter10
+  - file: chapter11
+
+- caption: Semana 12
+  numbered: true
+  chapters:
+  - file: chapter12
+  - file: chapter13
+
+- caption: Semana 13
+  numbered: true
+  chapters:
+  - file: chapter14
+
+- caption: Semana 14
+  numbered: true
+  chapters:
+  - file: chapter15
+  - file: chapter16
+
+- caption: Semana 15
+  numbered: true
+  chapters:
+  - file: chapter17
+
+- caption: Semana 16
+  numbered: true
+  chapters:
+  - file: chapter18
